@@ -36,7 +36,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/R3ner/R3ner/output/pacman-contribution-graph.svg">
 </picture>
 
-[![Rener's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R3ner&theme=merko&hide_border=true&bg_color=FFFFFF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![R3ner's activity graph](https://github-activity-graph-rj0t9jty9-r3ner.vercel.app//api/graph?username=R3ner&theme=merko&hide_border=true&area=true)](https://github.com/R3ner)
  </div>
   <div align=center>
   
